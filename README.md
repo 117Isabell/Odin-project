@@ -1,2 +1,2 @@
 # Odin-project
-This is free learning source online! It's a self-learning record!
+This is a free learning source online! It's a self-learning record!
